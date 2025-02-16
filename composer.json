@@ -8,7 +8,16 @@
             "IntecHost\\": "src/"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/intechost/encoder"
+        }
+    ],
     "require": {
-        "php": ">=7.4"
-    }
+        "php": ">=7.4",
+        "intechost/encoder": "dev-main"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
