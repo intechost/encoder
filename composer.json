@@ -1,0 +1,13 @@
+{
+    "name": "intechost/encoder",
+    "description": "Custom encoding for intechost",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "IntecHost\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
