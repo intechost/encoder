@@ -2,6 +2,7 @@
     "name": "intechost/encoder",
     "description": "Custom encoding for intechost",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "IntecHost\\": "src/"
