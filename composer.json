@@ -9,7 +9,6 @@
         }
     },
     "require": {
-        "intechost/encoder": "dev-main",
         "php": ">=7.4"
     }
 }
