@@ -1,6 +1,5 @@
 Use
 
-<?php
 require 'vendor/autoload.php';
 use IntecHost\Encoder;
 
