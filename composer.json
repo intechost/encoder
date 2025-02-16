@@ -10,5 +10,16 @@
     },
     "require": {
         "php": ">=7.4"
+    },
+    {
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/intechost/encoder"
+        }
+    ],
+    "require": {
+        "intechost/encoder": "dev-main"
     }
+}
 }
